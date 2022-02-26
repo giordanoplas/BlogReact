@@ -22,13 +22,11 @@
 ### - Tecnologías y herramientas...
 
 <p>
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/angular.jpg" alt="angular" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/typescript.jpg" alt="typescript" style="vertical-align:top; margin:4px">  
+  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/react.jpg" alt="react" style="vertical-align:top; margin:4px"> 
   <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/mongodb.jpg" alt="mongodb" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/javascript.jpg" alt="javascript" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/html.jpg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/css.jpg" alt="css" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/bootstrap.jpg" alt="bootstrap" style="vertical-align:top; margin:4px">
 </p>
 
 <p align="center">
