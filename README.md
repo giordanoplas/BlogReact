@@ -17,17 +17,7 @@
   <h3>Blog React</h3>
 </p>
 
- - Este es un blog creado con el framework de React. Este hace interacción con un backend hecho en NodeJS para obtener la información de la base de datos MongoDB. Además puedes crear, buscar, modificar y eliminar artículos
-
-### - Tecnologías y herramientas...
-
-<p>
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/react.jpg" alt="react" style="vertical-align:top; margin:4px; max-width:100px"> 
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/mongodb.jpg" alt="mongodb" style="vertical-align:top; margin:4px; max-width:100px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/javascript.jpg" alt="javascript" style="vertical-align:top; margin:4px; max-width:100px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/html.jpg" alt="html" style="vertical-align:top; margin:4px; max-width:100px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/css.jpg" alt="css" style="vertical-align:top; margin:4px; max-width:100px">
-</p>
+ - Este es un blog creado con React. Este hace interacción con un backend hecho en NodeJS para obtener la información de la base de datos MongoDB. Además puedes crear, buscar, modificar y eliminar artículos
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/cd76570d3152046b5cc74d603d47a5694646a5be/Bottom.svg" alt="Github Stats" />
