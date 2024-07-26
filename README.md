@@ -22,11 +22,11 @@
 ### - Tecnologías y herramientas...
 
 <p>
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/react.jpg" alt="react" style="vertical-align:top; margin:4px"> 
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/mongodb.jpg" alt="mongodb" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/javascript.jpg" alt="javascript" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/html.jpg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/css.jpg" alt="css" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/react.jpg" alt="react" style="vertical-align:top; margin:4px; max-width:100px"> 
+  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/mongodb.jpg" alt="mongodb" style="vertical-align:top; margin:4px; max-width:100px">
+  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/javascript.jpg" alt="javascript" style="vertical-align:top; margin:4px; max-width:100px">
+  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/html.jpg" alt="html" style="vertical-align:top; margin:4px; max-width:100px">
+  <img src="https://raw.githubusercontent.com/giordanoplas/giordanoplas/main/css.jpg" alt="css" style="vertical-align:top; margin:4px; max-width:100px">
 </p>
 
 <p align="center">
